@@ -3,13 +3,13 @@
 
 # **Asignatura: Desarrollo de Sistemas Informaticos**
 
-## **Práctica 5: Objetos, clases e interfaces**
+## **Práctica 6: Clases e interfaces genéricas. Principios SOLID**
 
 ## Descripción de la Práctica
-En esta práctica tendremos que resolver una serie de ejercicios de programación que nos permitirán conocer más en profundidad los objetos, clases e interfaces del lenguaje TypeScript.
+En esta práctica tendremos que resolver una serie de ejercicios de programación que nos permitirán conocer más en profundidad las clases e interfaces genéricas del lenguaje TypeScript. Además, también deberán utilizar los principios SOLID de diseño orientado a objetos.
 
 ### Enlaces de interés
-- [Guión de la práctica](https://ull-esit-inf-dsi-2425.github.io/prct05-objects-classes-interfaces/)
+- [Guión de la práctica](https://ull-esit-inf-dsi-2425.github.io/prct06-generics-solid/)
 - [TypeDoc](https://typedoc.org/)
 - [Vitest](https://vitest.dev/)
 - [Coveralls](https://coveralls.io/)
@@ -35,6 +35,12 @@ usuario@ull:~$ npm test
 ```
 _Corre todos los test_ 
 
+### Ejecución de test con coveralls
+```bash
+usuario@ull:~$ npm coverage
+```
+_Corre todos los test con coveralls_ 
+
 # Universidad
 
 ![Logo ULL](img/marca-universidad-de-la-laguna-original.png)
@@ -46,5 +52,5 @@ _Corre todos los test_
 - **GitHub:** [https://github.com/JoseAngelGlez](https://github.com/JoseAngelGlez)
 - **LinkedIn:** [https://www.linkedin.com/in/joseangelglez/](https://www.linkedin.com/in/joseangelglez/)
 
-[![Tests](https://github.com/ULL-ESIT-INF-DSI-2425/prct05-objects-classes-interfaces-JoseAngelGlz/actions/workflows/ci.yml/badge.svg)](https://github.com/ULL-ESIT-INF-DSI-2425/prct05-objects-classes-interfaces-JoseAngelGlz/actions/workflows/ci.yml)
-[![Coverage Status](https://coveralls.io/repos/github/ULL-ESIT-INF-DSI-2425/prct05-objects-classes-interfaces-JoseAngelGlz/badge.svg?branch=main)](https://coveralls.io/github/ULL-ESIT-INF-DSI-2425/prct05-objects-classes-interfaces-JoseAngelGlz?branch=main)
+[![Tests](https://github.com/ULL-ESIT-INF-DSI-2425/prct06-generics-solid-JoseAngelGlz/actions/workflows/ci.yml/badge.svg)](https://github.com/ULL-ESIT-INF-DSI-2425/prct06-generics-solid-JoseAngelGlz/actions/workflows/ci.yml)
+[![Coverage Status](https://coveralls.io/repos/github/ULL-ESIT-INF-DSI-2425/prct06-generics-solid-JoseAngelGlz/badge.svg?branch=main)](https://coveralls.io/github/ULL-ESIT-INF-DSI-2425/prct06-generics-solid-JoseAngelGlz?branch=main)
