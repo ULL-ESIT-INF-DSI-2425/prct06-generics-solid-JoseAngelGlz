@@ -47,7 +47,7 @@ _Corre todos los test con coveralls_
 
 ## Información de contacto
 
-- **Nombre:** José Ángel González Álamo
+- **Nombre:** José Ángel González Álamo 
 - **Correo Electrónico:** alu0101564180@ull.edu.es
 - **GitHub:** [https://github.com/JoseAngelGlez](https://github.com/JoseAngelGlez)
 - **LinkedIn:** [https://www.linkedin.com/in/joseangelglez/](https://www.linkedin.com/in/joseangelglez/)
