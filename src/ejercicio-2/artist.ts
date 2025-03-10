@@ -1,6 +1,9 @@
 import { Song, Single, Album } from './music';
 
-interface Printable {
+/**
+ * Interface Printable that contains the method printDiscography
+ */
+export interface Printable {
   printDiscography(): string;
 }
 

@@ -54,7 +54,6 @@ export class Album {
    * Constructor of the class Album
    * @param name - Name of the album
    * @param songs - Array of songs of the album
-   * @param year - Year of the album
    * ```typescript	
    * const album = new Album('The Dark Side of the Moon', [song1, song2, song3], 1973);
    * ```
