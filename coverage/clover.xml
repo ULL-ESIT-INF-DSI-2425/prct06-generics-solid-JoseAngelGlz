@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1741558778257" clover="3.2.0">
-  <project timestamp="1741558778257" name="All files">
+<coverage generated="1741599111841" clover="3.2.0">
+  <project timestamp="1741599111841" name="All files">
     <metrics statements="54" coveredstatements="54" conditionals="31" coveredconditionals="31" methods="26" coveredmethods="26" elements="111" coveredelements="111" complexity="0" loc="54" ncloc="54" packages="1" files="2" classes="2"/>
-    <file name="1-content.ts" path="/home/usuario/prct06-generics-solid-JoseAngelGlz/src/1-content.ts">
+    <file name="content.ts" path="/home/usuario/prct06-generics-solid-JoseAngelGlz/src/ejericio-1/content.ts">
       <metrics statements="29" coveredstatements="29" conditionals="18" coveredconditionals="18" methods="18" coveredmethods="18"/>
       <line num="4" count="1" type="stmt"/>
       <line num="5" count="1" type="cond" truecount="3" falsecount="0"/>
@@ -34,7 +34,7 @@
       <line num="82" count="4" type="stmt"/>
       <line num="83" count="1" type="stmt"/>
     </file>
-    <file name="1-streamable.ts" path="/home/usuario/prct06-generics-solid-JoseAngelGlz/src/1-streamable.ts">
+    <file name="streamable.ts" path="/home/usuario/prct06-generics-solid-JoseAngelGlz/src/ejericio-1/streamable.ts">
       <metrics statements="25" coveredstatements="25" conditionals="13" coveredconditionals="13" methods="8" coveredmethods="8"/>
       <line num="1" count="1" type="stmt"/>
       <line num="28" count="1" type="stmt"/>

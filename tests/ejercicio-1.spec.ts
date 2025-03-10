@@ -1,6 +1,6 @@
 import { beforeEach, afterEach, describe, expect, test, vi } from "vitest";
-import { Content, Film, Documentary, Serie } from '../src/1-content'
-import {  StreamableContentManager, SearcheableStreamableContentManager, SearcheableStreamableFilmDocumentaryManager, SearcheableStreamableSerieManager } from '../src/1-streamable'
+import { Content, Film, Documentary, Serie } from '../src/ejericio-1/content.ts'
+import {  StreamableContentManager, SearcheableStreamableContentManager, SearcheableStreamableFilmDocumentaryManager, SearcheableStreamableSerieManager } from '../src/ejericio-1/streamable.ts'
 
 describe('Content', () => {
   let content: Content;

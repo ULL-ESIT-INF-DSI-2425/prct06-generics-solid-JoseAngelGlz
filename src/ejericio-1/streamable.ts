@@ -1,4 +1,4 @@
-import { Content, Film, Documentary, Serie } from "./1-content";
+import { Content, Film, Documentary, Serie } from "./content";
 
 /**
  * Interface for streamable content
