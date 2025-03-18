@@ -21,6 +21,7 @@
     "url": "https://github.com/ULL-ESIT-INF-DSI-2425/prct06-generics-solid-JoseAngelGlz/issues"
   },
   "homepage": "https://github.com/ULL-ESIT-INF-DSI-2425/prct06-generics-solid-JoseAngelGlz#readme",
+  "type": "module",
   "devDependencies": {
     "@eslint/js": "^9.22.0",
     "@types/node": "^22.13.10",
