@@ -1,4 +1,4 @@
-import { Arithmetic, ArithmeticCollection } from "./arithmeticable";
+import { Arithmetic } from "./arithmeticable.js";
 
 /**
  * Clase ComplexNumber que implementa la interfas Arithmetic y define las operaciones para estos
@@ -61,14 +61,3 @@ export class ComplexNumber implements Arithmetic<ComplexNumber>{
     return new ComplexNumber(((a * c) + (b * d)) / ((c * c) + (d * d)), ((b * c) - (a * d)) / ((c * c) + (d * d))); 
   }
 }
-
-let complex1: ComplexNumber = new ComplexNumber(1, 2);
-let complex2: ComplexNumber = new ComplexNumber(3, 4);
-
-let collection: ArithmeticCollection<ComplexNumber> = new ArithmeticCollection<ComplexNumber>();
-collection.addArithmetic(complex1);
-collection.addArithmetic(complex2);
-
-console.log(`Número complejo 1: (${collection.getArithmetic(complex1).real}, ${collection.getArithmetic(complex1).img})`);
-
-console.log(`Tamaño de la colección: ${collection.getNumberOfArithmeticables()}`);
